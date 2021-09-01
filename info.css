@@ -1,0 +1,28 @@
+body
+{
+    background-image: url("image/ima.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: whitesmoke;
+}
+h1
+{
+     font-family: 'Zen Tokyo Zoo', cursive;
+     color: green;
+}
+button
+{
+    background-color: black;
+    color: chartreuse;
+    padding: 5px;
+    border-radius: 10px;
+}
+thead
+{
+    color: red;
+}
+tbody
+{
+    color: yellow;
+  
+}
